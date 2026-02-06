@@ -1,0 +1,12 @@
+# Secrets
+.env
+
+# Dependencies
+node_modules/
+
+# Uploaded images
+backend/uploads/
+
+# Build files
+frontend/build/
+dist/
